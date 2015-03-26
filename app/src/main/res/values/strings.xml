@@ -4,5 +4,9 @@
     <string name="app_name">Radio</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+    <string name="playback_play">Play</string>
+    <string name="playback_stop">Stop</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+    <string name="play">Play</string>
 </resources>
